@@ -16,3 +16,22 @@
 #summitButton:hover {
     background-color: #45a049;
 }
+
+
+
+
+
+
+
+.home-button {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #FFA500;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        .home-button:hover {
+            background-color: #FF8C00;
+        }
