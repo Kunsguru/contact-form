@@ -8,4 +8,8 @@ document.getElementById('summitButton').addEventListener('click', function() {
 });
 
 
+document.getElementById("homeButton").onclick = function() {
+            window.location.href = "https://aaartswithartsbasy2024.onrender.com/";
+        }
+
 
