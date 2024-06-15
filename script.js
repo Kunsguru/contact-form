@@ -7,6 +7,9 @@ document.getElementById('summitButton').addEventListener('click', function() {
     window.location.href = mailtoLink;
 });
 
+alert('Message submitted successfully! Redirecting to home page.');
+            window.location.href = 'https://aaartswithartsbasy2024.onrender.com/'; // Redirect to the home page
+        });
 
 
 
