@@ -31,5 +31,12 @@ body {
         .home-button:hover, #summitButton:hover {
             background-color: #005f5f;
         }
+        .hidden {
+            display: none;
+        }
+        textarea {
+            width: 300px;
+            height: 150px;
+        }
 
 
